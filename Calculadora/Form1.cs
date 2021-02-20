@@ -12,24 +12,16 @@ namespace Calculadora
 {
     public partial class Form1 : Form
     {
+        
+        //declara as variaveis
         decimal num1, num2, resp;
         string Operacao;
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
            
-
-            //if(comboBox1.SelectedItem.ToString() == "Adição"){
-              //  label1.Text = "Teste";
-            //}
-            
-            
         }
-
+        //funções para adicionar numeros ao input
         private void button1_Click_1(object sender, EventArgs e)
         {
             textBox1.Text += "1";
@@ -79,6 +71,16 @@ namespace Calculadora
         {
             textBox1.Text += "0";
         }
+        //funções de metodos matematicos
+
+        private void button11_Click(object sender, EventArgs e)//soma
+        {
+            //button12.Enabled = false;
+            num1 = Convert.ToDecimal(textBox1.Text);
+            textBox1.Text = null;
+            button13.Enabled = true;
+            Operacao = "Som";
+        }
 
         private void button12_Click(object sender, EventArgs e)//subtracao
         {
@@ -104,6 +106,7 @@ namespace Calculadora
             Operacao = "Div";
         }
 
+        //botao limpar
         private void button14_Click(object sender, EventArgs e)//limpar
         {
             num1 = 0;
@@ -112,13 +115,14 @@ namespace Calculadora
             Operacao = "";
             button13.Enabled = false;
         }
+        
 
-        private void button17_Click(object sender, EventArgs e)
+        private void button17_Click(object sender, EventArgs e)//botão de virgula
         {
             textBox1.Text += ",";
         }
 
-        private void button13_Click(object sender, EventArgs e)//igual
+        private void button13_Click(object sender, EventArgs e)//resultado
         {
             num2 = Convert.ToDecimal(textBox1.Text);
             
@@ -142,13 +146,6 @@ namespace Calculadora
 
         }
 
-        private void button11_Click(object sender, EventArgs e)//soma
-        {
-            //button12.Enabled = false;
-            num1 = Convert.ToDecimal(textBox1.Text);
-            textBox1.Text = null;
-            button13.Enabled = true;
-            Operacao = "Som";
-        }
+        
     }
 }
