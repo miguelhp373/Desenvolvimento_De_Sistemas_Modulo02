@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\bin\Debug\Calculadora_Try_Catch.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\bin\Debug\Calculadora_Try_Catch.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\bin\Debug\Calculadora_Try_Catch.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\obj\Debug\Calculadora_Try_Catch.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\obj\Debug\Calculadora_Try_Catch.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\obj\Debug\Calculadora_Try_Catch.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\obj\Debug\Calculadora_Try_Catch.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\obj\Debug\Calculadora_Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\obj\Debug\Calculadora_Try_Catch.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Calculadora_Try_Catch\obj\Debug\Calculadora_Try_Catch.pdb

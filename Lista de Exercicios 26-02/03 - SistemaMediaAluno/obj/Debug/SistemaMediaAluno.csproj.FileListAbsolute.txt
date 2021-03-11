@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\bin\Debug\SistemaMediaAluno.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\bin\Debug\SistemaMediaAluno.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\bin\Debug\SistemaMediaAluno.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\obj\Debug\SistemaMediaAluno.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\obj\Debug\SistemaMediaAluno.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\obj\Debug\SistemaMediaAluno.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\obj\Debug\SistemaMediaAluno.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\obj\Debug\SistemaMediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\obj\Debug\SistemaMediaAluno.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\SistemaMediaAluno\obj\Debug\SistemaMediaAluno.pdb

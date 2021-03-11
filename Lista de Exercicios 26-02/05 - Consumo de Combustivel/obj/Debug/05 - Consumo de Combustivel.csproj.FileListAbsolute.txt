@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\obj\Debug\05 - Consumo de Combustivel.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\obj\Debug\_05___Consumo_de_Combustivel.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\obj\Debug\_05___Consumo_de_Combustivel.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\obj\Debug\05 - Consumo de Combustivel.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\obj\Debug\05 - Consumo de Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\bin\Debug\05 - Consumo de Combustivel.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\bin\Debug\05 - Consumo de Combustivel.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\bin\Debug\05 - Consumo de Combustivel.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\obj\Debug\05 - Consumo de Combustivel.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Projetos 26-02\05 - Consumo de Combustivel\obj\Debug\05 - Consumo de Combustivel.pdb

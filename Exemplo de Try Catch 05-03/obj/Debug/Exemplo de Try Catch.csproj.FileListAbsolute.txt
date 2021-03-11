@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\bin\Debug\Exemplo de Try Catch.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\bin\Debug\Exemplo de Try Catch.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\bin\Debug\Exemplo de Try Catch.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\obj\Debug\Exemplo de Try Catch.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\obj\Debug\Exemplo_de_Try_Catch.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\obj\Debug\Exemplo_de_Try_Catch.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\obj\Debug\Exemplo de Try Catch.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\obj\Debug\Exemplo de Try Catch.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\obj\Debug\Exemplo de Try Catch.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Exemplo de Try Catch\obj\Debug\Exemplo de Try Catch.pdb

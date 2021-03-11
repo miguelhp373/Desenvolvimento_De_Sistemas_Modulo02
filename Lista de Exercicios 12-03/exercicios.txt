@@ -1,0 +1,33 @@
+1.       Desenvolva uma aplicação que leia dois valores, a operação matemática desejada
+	 e informe o resultado. Considere as quatro operações matemáticas básicas.
+
+2.       Leia 3 número inteiros e exiba o maior deles.
+
+3.       Desenvolva uma aplicação que receba dois valores numéricos inteiros, 
+	calcule e mostre o resultado da diferença do maior pelo menor valor.
+
+4.       Desenvolva uma aplicação que leia a altura e peso de uma pessoa e calcule o IMC.
+	 O índice de massa corpórea (IMC) pode ser obtido pela fórmula: peso / (altura * altura).
+
+imc < 18.5, escrever “MAGRO”,
+imc >= 18.5 e imc < 25, escrever “NORMAL!,
+imc >= 25 e imc < 30, escrever "OBESO !,
+imc >= 30, escrever "OBESO MORBIDO !”
+ 
+5.       Desenvolva uma aplicação que, dada a idade de um nadador. Classifique-o em uma das seguintes categorias:
+
+• Infantil A = 5 - 7 anos
+
+• Infantil B = 8 - 10 anos
+
+• Juvenil A = 11- 13 anos
+
+• Juvenil B = 14 - 17 anos
+
+• Sênior = 18 - 25 anos
+
+Apresentar mensagem “idade fora da faixa etária” quando for outro ano não contemplado.
+
+
+
+6.      Desenvolva uma aplicação que receba um valor inteiro e exiba se ele é par ou ímpar.

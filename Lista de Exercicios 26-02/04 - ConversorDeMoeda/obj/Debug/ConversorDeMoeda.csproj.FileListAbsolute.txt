@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\bin\Debug\ConversorDeMoeda.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\bin\Debug\ConversorDeMoeda.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\bin\Debug\ConversorDeMoeda.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.pdb
