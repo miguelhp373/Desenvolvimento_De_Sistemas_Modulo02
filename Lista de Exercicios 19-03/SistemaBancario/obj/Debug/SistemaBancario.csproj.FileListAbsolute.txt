@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\obj\Debug\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\obj\Debug\SistemaBancario.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\obj\Debug\SistemaBancario.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\obj\Debug\SistemaBancario.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\SistemaBancario\obj\Debug\SistemaBancario.Form1.resources

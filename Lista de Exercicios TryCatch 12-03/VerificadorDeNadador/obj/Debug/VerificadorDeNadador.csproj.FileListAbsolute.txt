@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\bin\Debug\VerificadorDeNadador.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\bin\Debug\VerificadorDeNadador.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\bin\Debug\VerificadorDeNadador.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\obj\Debug\VerificadorDeNadador.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\obj\Debug\VerificadorDeNadador.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\obj\Debug\VerificadorDeNadador.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\obj\Debug\VerificadorDeNadador.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\obj\Debug\VerificadorDeNadador.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\obj\Debug\VerificadorDeNadador.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeNadador\obj\Debug\VerificadorDeNadador.pdb

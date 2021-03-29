@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\bin\Debug\VerficadorDeDiferencas.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\bin\Debug\VerficadorDeDiferencas.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\bin\Debug\VerficadorDeDiferencas.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\obj\Debug\VerficadorDeDiferencas.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\obj\Debug\VerficadorDeDiferencas.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\obj\Debug\VerficadorDeDiferencas.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\obj\Debug\VerficadorDeDiferencas.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\obj\Debug\VerficadorDeDiferencas.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\obj\Debug\VerficadorDeDiferencas.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerficadorDeDiferencas\obj\Debug\VerficadorDeDiferencas.pdb

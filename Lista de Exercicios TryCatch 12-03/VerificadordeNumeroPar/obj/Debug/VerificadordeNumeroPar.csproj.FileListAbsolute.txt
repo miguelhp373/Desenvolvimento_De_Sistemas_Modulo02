@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\bin\Debug\VerificadordeNumeroPar.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\bin\Debug\VerificadordeNumeroPar.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\bin\Debug\VerificadordeNumeroPar.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\obj\Debug\VerificadordeNumeroPar.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\obj\Debug\VerificadordeNumeroPar.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\obj\Debug\VerificadordeNumeroPar.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\obj\Debug\VerificadordeNumeroPar.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\obj\Debug\VerificadordeNumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\obj\Debug\VerificadordeNumeroPar.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadordeNumeroPar\obj\Debug\VerificadordeNumeroPar.pdb

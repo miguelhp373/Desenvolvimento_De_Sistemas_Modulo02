@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\bin\Debug\CalculadoradeBhaskara.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\bin\Debug\CalculadoradeBhaskara.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\bin\Debug\CalculadoradeBhaskara.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\obj\Debug\CalculadoradeBhaskara.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\obj\Debug\CalculadoradeBhaskara.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\obj\Debug\CalculadoradeBhaskara.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\obj\Debug\CalculadoradeBhaskara.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\obj\Debug\CalculadoradeBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\obj\Debug\CalculadoradeBhaskara.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 19-03\CalculadoradeBhaskara\obj\Debug\CalculadoradeBhaskara.pdb

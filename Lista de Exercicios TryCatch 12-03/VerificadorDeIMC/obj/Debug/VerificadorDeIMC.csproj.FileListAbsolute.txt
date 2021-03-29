@@ -1,0 +1,20 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\bin\Debug\VerificadorDeIMC.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\bin\Debug\VerificadorDeIMC.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\bin\Debug\VerificadorDeIMC.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\bin\Debug\VerificadorDeIMC.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\bin\Debug\VerificadorDeIMC.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\bin\Debug\VerificadorDeIMC.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Lista de Exercicios TryCatch 12-03\VerificadorDeIMC\obj\Debug\VerificadorDeIMC.pdb

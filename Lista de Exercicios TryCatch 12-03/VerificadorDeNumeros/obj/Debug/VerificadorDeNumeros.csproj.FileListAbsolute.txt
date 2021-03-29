@@ -1,0 +1,9 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\bin\Debug\VerificadorDeNumeros.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\bin\Debug\VerificadorDeNumeros.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\bin\Debug\VerificadorDeNumeros.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.pdb
