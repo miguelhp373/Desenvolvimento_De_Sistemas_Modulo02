@@ -154,7 +154,7 @@ namespace CalculadoraDeSalarioLiquido
 
 
 
-        private void button2_Click(object sender, EventArgs e)//limpa
+        private void button2_Click(object sender, EventArgs e)//limpar
         {
             txtIN.Text = "";
             txtIR.Text = "";
