@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\obj\Debug\ex03 - Fatorial.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\obj\Debug\ex03___Fatorial.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\obj\Debug\ex03___Fatorial.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\obj\Debug\ex03 - Fatorial.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\obj\Debug\ex03 - Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\bin\Debug\ex03 - Fatorial.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\bin\Debug\ex03 - Fatorial.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\bin\Debug\ex03 - Fatorial.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\obj\Debug\ex03 - Fatorial.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex03 - Fatorial\obj\Debug\ex03 - Fatorial.pdb

@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\bin\Debug\ex02 - Fibonacci.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\bin\Debug\ex02 - Fibonacci.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\bin\Debug\ex02 - Fibonacci.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\obj\Debug\ex02 - Fibonacci.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\obj\Debug\ex02___Fibonacci.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\obj\Debug\ex02___Fibonacci.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\obj\Debug\ex02 - Fibonacci.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\obj\Debug\ex02 - Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\obj\Debug\ex02 - Fibonacci.exe
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\Estrutura de Repetição\ex02 - Fibonacci\obj\Debug\ex02 - Fibonacci.pdb
