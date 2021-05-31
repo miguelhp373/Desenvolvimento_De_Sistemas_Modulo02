@@ -72,6 +72,7 @@ namespace AplicaçãoMultiForm
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.label1);
             this.Name = "Fibonacci";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Form3";
             this.Load += new System.EventHandler(this.Fibonacci_Load);
             this.ResumeLayout(false);

@@ -107,6 +107,7 @@ namespace AplicaçãoMultiForm
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Tabuada";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tabuada";
             this.ResumeLayout(false);
             this.PerformLayout();

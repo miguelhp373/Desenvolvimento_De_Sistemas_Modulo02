@@ -11,3 +11,6 @@ C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Mod
 C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\AplicaçãoMultiForm\obj\Debug\AplicaçãoMultiForm.pdb
 C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\AplicaçãoMultiForm\obj\Debug\AplicaçãoMultiForm.Fibonacci.resources
 C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\AplicaçãoMultiForm\obj\Debug\AplicaçãoMultiForm.ParesImpares.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\AplicaçãoMultiForm\obj\Debug\AplicaçãoMultiForm.tabuada20.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\AplicaçãoMultiForm\obj\Debug\AplicaçãoMultiForm.Palavras10.resources
+C:\Users\migue\OneDrive\Documentos\Projetos Etec\Desenvolvimento_De_Sistemas_Modulo02\AplicaçãoMultiForm\obj\Debug\AplicaçãoMultiForm.Palavras20.resources
