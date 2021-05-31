@@ -164,38 +164,25 @@ namespace AplicaçãoMultiForm
 
         public void brokenPhrases()//quebra as frases
         {
-            //nao esta finalizado
             string PhraseBroken;
-            int countLength, indexLoop;
 
-            PhraseBroken = Convert.ToString(textBox1.Text);
-            countLength = textBox1.Text.Length;
+            PhraseBroken = "";
+            int i = textBox1.Text.Length;
 
-            for(int i = 0; i < countLength; i++)
+            for (int c = 0; c < i; c++)
             {
-
-                if (Convert.ToString(PhraseBroken[i]) == " ")
+                if (Convert.ToString(textBox1.Text[c]) != " ")
                 {
-                    indexLoop = i;
-
-                    for (int c = 0; c < indexLoop; c++)
-                    {
-                        phraseAUX += PhraseBroken[c];
-                    }
-
-                    wordStorage2.Add(Convert.ToString(phraseAUX));
-                    phraseAUX = "";
+                    PhraseBroken += textBox1.Text[c];
+                }
+                else
+                {
+                    listBox2.Items.Add(PhraseBroken);
+                    PhraseBroken = "";
                 }
             }
+            listBox2.Items.Add(PhraseBroken);
 
-
-            for (int i = 0; i < wordStorage2.Count; i++)
-            {
-                listBox2.Items.Add(wordStorage2[i]);
-            }
-
-
-            
         }
 
        public void activeButtons()//ativa todos botoes
