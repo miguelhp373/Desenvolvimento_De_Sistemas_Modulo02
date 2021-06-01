@@ -12,10 +12,9 @@ namespace AplicaçãoMultiForm
 {
     public partial class Palavras20 : Form
     {
-        string phraseReverse, phrase, trimphrase, phraseAUX;
+        string phraseReverse, phrase, trimphrase;
         int phraseLength, vogal01, vogal02, vogal03, vogal04, vogal05, countphrase;
         List<string> wordStorage = new List<string>();
-        List<string> wordStorage2 = new List<string>();
         
         
         
@@ -50,7 +49,6 @@ namespace AplicaçãoMultiForm
             listBox2.Items.Clear();
             textBox1.Clear();
             wordStorage.Clear();
-            wordStorage2.Clear();
 
         }
 
@@ -187,6 +185,7 @@ namespace AplicaçãoMultiForm
 
        public void activeButtons()//ativa todos botoes
         {
+            button1.Enabled = true;
             button2.Enabled = true;
             button3.Enabled = true;
             button4.Enabled = true;
@@ -194,6 +193,17 @@ namespace AplicaçãoMultiForm
             button6.Enabled = true;
             button7.Enabled = true;
             button9.Enabled = true;
+        }
+
+        public void disableButtons()
+        {
+            button1.Enabled = false;
+            button2.Enabled = false;
+            button3.Enabled = false;
+            button4.Enabled = false;
+            button5.Enabled = false;
+            button6.Enabled = false;
+            button7.Enabled = false;
         }
 
 
@@ -215,6 +225,8 @@ namespace AplicaçãoMultiForm
             brokenWords();
             brokenPhrases();
             palindrome();
+
+            disableButtons();
         }
 
         private void Palavras20_Load(object sender, EventArgs e)//limpa ao abrir o form
